@@ -1,6 +1,6 @@
 # Yoxyo(archive)
 ## About
-## [Remembering] Archiving the game(Client/Studio) on github
+## [Remembering] Archiving the game(Client/Studio) on github Only
 ### What is Yoxyo?
 Yoxyo is a platform that allows you to connect with others, share your thoughts, and explore new ideas.
 
